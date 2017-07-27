@@ -1,0 +1,2647 @@
+[
+  {
+    "name": "Santa Monica",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "327ef722-a98d-4a8a-b195-96cca074df12",
+    "latitude": null,
+    "id": 2
+  },
+  {
+    "name": "Springfield",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "e2653247-f31f-4898-95c4-48764684271d",
+    "latitude": null,
+    "id": 8
+  },
+  {
+    "name": "Southern & Dobson",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.871852,
+    "languages": [],
+    "indirectId": "512cb4c7-d0f4-4552-bee9-5acb6bd961f7",
+    "latitude": 33.392981,
+    "id": 151
+  },
+  {
+    "name": "Red Mountain",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.871852,
+    "languages": [],
+    "indirectId": "311654b4-3d47-4d55-832a-b6460c3805d6",
+    "latitude": 33.392981,
+    "id": 542
+  },
+  {
+    "name": "Phoenix College",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.088513,
+    "languages": [],
+    "indirectId": "79607bfc-80a8-4596-8ffd-e95d3ef4a62d",
+    "latitude": 33.480449,
+    "id": 1572
+  },
+  {
+    "name": "Colorado Ski & Golf Aurora",
+    "showTTbeforeQueue": 0,
+    "longitude": -104.86496,
+    "languages": [],
+    "indirectId": "2064b8d3-b816-44c9-b7b1-f82d7fa42c19",
+    "latitude": 39.668503,
+    "id": 1652
+  },
+  {
+    "name": "Development Services",
+    "showTTbeforeQueue": 0,
+    "longitude": -104.990621,
+    "languages": [],
+    "indirectId": "15aa2232-ef91-4ed3-bf4d-1a7456fa6da3",
+    "latitude": 39.740139,
+    "id": 2212
+  },
+  {
+    "name": "Boondocks Fun Center",
+    "showTTbeforeQueue": 0,
+    "longitude": -104.987394,
+    "languages": [],
+    "indirectId": "7734b77a-b8f5-4c47-886b-78757cbac908",
+    "latitude": 39.904239,
+    "id": 2312
+  },
+  {
+    "name": "RMIT Connect - Business Central",
+    "showTTbeforeQueue": 0,
+    "longitude": 144.963074,
+    "languages": [],
+    "indirectId": "bdbde131-4565-48d0-a2b7-cbae71544c77",
+    "latitude": -37.807938,
+    "id": 2792
+  },
+  {
+    "name": "Fullerton College Financial Aid",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.920091,
+    "languages": [],
+    "indirectId": "18ed368f-c058-4ad0-9065-f600e62dc957",
+    "latitude": 33.874022,
+    "id": 2832
+  },
+  {
+    "name": "Glendale Community College",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.190827,
+    "languages": [],
+    "indirectId": "870be61f-27d9-4ec2-b355-ecd4371ebac4",
+    "latitude": 33.569433,
+    "id": 2852
+  },
+  {
+    "name": "Fullerton College Callback",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.920091,
+    "languages": [],
+    "indirectId": "c4e3b63e-f454-4470-b590-b1006684f4e9",
+    "latitude": 33.874022,
+    "id": 3582
+  },
+  {
+    "name": "Plato's Closet",
+    "showTTbeforeQueue": 0,
+    "longitude": -104.940767,
+    "languages": [],
+    "indirectId": "90bbaccf-136b-4ebb-9800-688bc4483ba",
+    "latitude": 39.689706,
+    "id": 3802
+  },
+  {
+    "name": "West LA College",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.391102,
+    "languages": [],
+    "indirectId": "0ad381c5-3953-413c-a787-2d7894d204eb",
+    "latitude": 34.001766,
+    "id": 3842
+  },
+  {
+    "name": "Phoenix College (Training)",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.087753,
+    "languages": [],
+    "indirectId": "6c0815d3-259c-44bf-a14e-8f74088167b0",
+    "latitude": 33.480415,
+    "id": 4212
+  },
+  {
+    "name": "Workforce Connections",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.233161,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "e4e9bee2-f24a-404c-8411-c4320ca76acf",
+    "latitude": 36.159242,
+    "id": 4642
+  },
+  {
+    "name": "Johnstone Supply",
+    "showTTbeforeQueue": 1,
+    "longitude": -111.899731,
+    "languages": [],
+    "indirectId": "764118ee-31db-463c-8a69-80a0c8994ec1",
+    "latitude": 40.706882,
+    "id": 5212
+  },
+  {
+    "name": "General Plumbing Supply",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.066479,
+    "languages": [],
+    "indirectId": "0065adc0-c065-43f6-b54e-76468b107bf3",
+    "latitude": 37.917288,
+    "id": 5672
+  },
+  {
+    "name": "Paradise Valley Community College",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.013595,
+    "languages": [],
+    "indirectId": "a04da542-1b4b-43e1-bc7f-d18345178134",
+    "latitude": 33.653417,
+    "id": 5832
+  },
+  {
+    "name": "RMIT IT Service points",
+    "showTTbeforeQueue": 0,
+    "longitude": 144.960526,
+    "languages": [],
+    "indirectId": "6ed84fff-2ccd-4fee-846b-3cc58cb06d8e",
+    "latitude": -37.80843,
+    "id": 6162
+  },
+  {
+    "name": "UC Berkeley",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.258474,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "4faea49f-d77f-4e2a-9d1b-6ffd8e248afb",
+    "latitude": 37.869606,
+    "id": 6242
+  },
+  {
+    "name": "South Seattle Community College",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.352762,
+    "languages": [],
+    "indirectId": "bcf6e248-9e74-442b-ad60-896147ac02ef",
+    "latitude": 47.547929,
+    "id": 8536
+  },
+  {
+    "name": "CGCC Pecos",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.796115,
+    "languages": [],
+    "indirectId": "100b28e5-d9d6-4d90-836e-c149d912f270",
+    "latitude": 33.294019,
+    "id": 8916
+  },
+  {
+    "name": "CGCC Williams",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.673923,
+    "languages": [],
+    "indirectId": "988b332a-791e-4961-b29c-f559891455cb",
+    "latitude": 33.311051,
+    "id": 8936
+  },
+  {
+    "name": "Reno",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.781793,
+    "languages": [],
+    "indirectId": "031b70f5-2cdb-480b-908f-c2655f988029",
+    "latitude": 39.532561,
+    "id": 9096
+  },
+  {
+    "name": "Skin Laundry West Hollywood",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.383347,
+    "languages": [],
+    "indirectId": "266a0f17-2cb4-41d7-84e3-3360a33d7e41",
+    "latitude": 34.077375,
+    "id": 9146
+  },
+  {
+    "name": "Murrieta",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.215262,
+    "languages": [],
+    "indirectId": "7939c92f-cd50-4ba4-9160-3b471c7278c0",
+    "latitude": 33.556792,
+    "id": 9866
+  },
+  {
+    "name": "Winchester",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "9e12d2ee-0dac-4b67-b94b-d58feb9b93c9",
+    "latitude": null,
+    "id": 9876
+  },
+  {
+    "name": "Lake Elsinore",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "d3bd7eff-82f9-48b6-a693-88ffd2afb16c",
+    "latitude": null,
+    "id": 9886
+  },
+  {
+    "name": "Sun City",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "b5450253-e4ae-43aa-9bf4-af3a5ce39e35",
+    "latitude": null,
+    "id": 9896
+  },
+  {
+    "name": "City of Spokane",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.42396,
+    "languages": [],
+    "indirectId": "b87d7c06-1ca2-4716-b798-25babecbf489",
+    "latitude": 47.660503,
+    "id": 9976
+  },
+  {
+    "name": "Skin Laundry Santa Monica",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.496225,
+    "languages": [],
+    "indirectId": "482b9214-55f3-4b32-b596-c24f29dd492f",
+    "latitude": 34.031058,
+    "id": 10037
+  },
+  {
+    "name": "Skin Laundry Sandbox",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.496225,
+    "languages": [],
+    "indirectId": "23fe3ea3-b7b2-435c-8ddd-83afc3098851",
+    "latitude": 34.031058,
+    "id": 10186
+  },
+  {
+    "name": "Ajoya",
+    "showTTbeforeQueue": 0,
+    "longitude": -105.166429,
+    "languages": [],
+    "indirectId": "1fbc3de6-f10c-40b8-860c-412a83fab1d3",
+    "latitude": 39.961202,
+    "id": 10216
+  },
+  {
+    "name": "Carson City",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.767403,
+    "languages": [],
+    "indirectId": "71d96e41-877e-465a-a859-0fca3b2b4cbc",
+    "latitude": 39.163798,
+    "id": 10516
+  },
+  {
+    "name": "Decatur",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.206109,
+    "languages": [],
+    "indirectId": "9360541b-dee3-4d82-971c-fc1d34ddb764",
+    "latitude": 36.194806,
+    "id": 10518
+  },
+  {
+    "name": "Winnemucca",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.7482167,
+    "languages": [],
+    "indirectId": "d4cceaea-a68a-4b45-ac6a-c33d34d89c6d",
+    "latitude": 40.9561702,
+    "id": 10528
+  },
+  {
+    "name": "Sparks",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.7290005,
+    "languages": [],
+    "indirectId": "2037c96f-6485-46e0-9898-3589ec3926b5",
+    "latitude": 39.5213495,
+    "id": 10538
+  },
+  {
+    "name": "Sahara",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.111702,
+    "languages": [],
+    "indirectId": "118a2530-0a72-418b-85cf-93c3b750f4c7",
+    "latitude": 36.1457139,
+    "id": 10548
+  },
+  {
+    "name": "Pahrump",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.982205,
+    "languages": [],
+    "indirectId": "abf6faa1-da84-4e38-b16c-968ae459aff3",
+    "latitude": 36.220614,
+    "id": 10558
+  },
+  {
+    "name": "Henderson",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.046047,
+    "languages": [],
+    "indirectId": "860eaadc-16ba-4bc1-b4e0-40dd10623ccc",
+    "latitude": 36.040396,
+    "id": 10568
+  },
+  {
+    "name": "Flamingo",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.271043,
+    "languages": [],
+    "indirectId": "1e058525-7d9e-4f59-a362-44f965deab84",
+    "latitude": 36.11550769999999,
+    "id": 10578
+  },
+  {
+    "name": "Fallon",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.7894819,
+    "languages": [],
+    "indirectId": "2ae84181-d90e-487f-9adc-ec2a22ec20bb",
+    "latitude": 39.4748369,
+    "id": 10588
+  },
+  {
+    "name": "Elko",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.73378,
+    "languages": [],
+    "indirectId": "7cd85c24-9558-429c-8a68-9372a68b94d8",
+    "latitude": 40.8638998,
+    "id": 10598
+  },
+  {
+    "name": "Donovan",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.1127731,
+    "languages": [],
+    "indirectId": "3b871b2c-7fd0-4134-a1d9-20b5b55ae925",
+    "latitude": 36.2327196,
+    "id": 10608
+  },
+  {
+    "name": "NDMVTEST",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "8cf787a3-986b-4f3c-b0a5-e33d7f22b601",
+    "latitude": null,
+    "id": 10628
+  },
+  {
+    "name": "Skin Laundry Glendale",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.2561731,
+    "languages": [],
+    "indirectId": "9ef10b5f-7db0-46b6-bac8-93c2e3bebce9",
+    "latitude": 34.1460878,
+    "id": 10956
+  },
+  {
+    "name": "Colorado Ski & Golf Lone Tree",
+    "showTTbeforeQueue": 0,
+    "longitude": -104.87919,
+    "languages": [],
+    "indirectId": "ac92a484-b838-4771-8a8c-2fe3ba393a6d",
+    "latitude": 39.559284,
+    "id": 10958
+  },
+  {
+    "name": "Boulder Ski Deals",
+    "showTTbeforeQueue": 0,
+    "longitude": -105.261303,
+    "languages": [],
+    "indirectId": "3dd7afb3-758c-49ef-8156-4a1c3c9476d9",
+    "latitude": 40.015695,
+    "id": 10968
+  },
+  {
+    "name": "San Bernardino County DA",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.286438,
+    "languages": [],
+    "indirectId": "03fcbac8-985d-483d-8b4b-50a30b7894ea",
+    "latitude": 34.108314,
+    "id": 10978
+  },
+  {
+    "name": "New Westminster",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.913271,
+    "languages": [],
+    "indirectId": "06c6af66-4a74-4e88-b37f-cc0aa82f81e6",
+    "latitude": 49.203677,
+    "id": 10988
+  },
+  {
+    "name": "Coquitlam",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.791745,
+    "languages": [],
+    "indirectId": "7696cdd5-1bc2-4ae0-9d47-6b8e5663c591",
+    "latitude": 49.288376,
+    "id": 10998
+  },
+  {
+    "name": "Skin Laundry Scottsdale",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.9252426,
+    "languages": [],
+    "indirectId": "ad472297-8c34-4e76-bba9-25bb6a40e6bc",
+    "latitude": 33.6251533,
+    "id": 11028
+  },
+  {
+    "name": "Skin Laundry New York",
+    "showTTbeforeQueue": 0,
+    "longitude": -73.993234,
+    "languages": [],
+    "indirectId": "97b61a53-62da-4eb5-8fa7-508c544de46b",
+    "latitude": 40.737803,
+    "id": 11038
+  },
+  {
+    "name": "Fullerton College Admissions",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.920091,
+    "languages": [],
+    "indirectId": "984a5516-c18b-4894-a592-e4458f929547",
+    "latitude": 33.874022,
+    "id": 11098
+  },
+  {
+    "name": "RMIT Connect - City",
+    "showTTbeforeQueue": 0,
+    "longitude": 144.960526,
+    "languages": [],
+    "indirectId": "8ce0eb8c-9fd4-4bab-9d01-3de4cd2322b8",
+    "latitude": -37.80843,
+    "id": 11108
+  },
+  {
+    "name": "Fullerton Counseling",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.920091,
+    "languages": [],
+    "indirectId": "c4111032-fbe4-48a0-a39f-8b7373b31039",
+    "latitude": 33.874022,
+    "id": 11118
+  },
+  {
+    "name": "Apple Store Test 1",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "1f9df26f-002b-49b6-ac65-6859e6ba68c0",
+    "latitude": null,
+    "id": 11126
+  },
+  {
+    "name": "Greiner Buick GMC",
+    "showTTbeforeQueue": 1,
+    "longitude": -117.322457,
+    "languages": [],
+    "indirectId": "cca88124-ba23-4a7b-8bce-bb55e43009bd",
+    "latitude": 34.515043,
+    "id": 11128
+  },
+  {
+    "name": "Apple Store Test 2",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "4989565d-f837-4fa4-8242-4cab8cefcf8f",
+    "latitude": null,
+    "id": 11136
+  },
+  {
+    "name": "Fallon",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.769358,
+    "languages": [],
+    "indirectId": "046a306f-e49e-4202-844f-ac0ba780d45e",
+    "latitude": 39.474679,
+    "id": 11209
+  },
+  {
+    "name": "Fernley",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.221623,
+    "languages": [],
+    "indirectId": "1ca164be-6674-4456-b2d5-a26c0a4e4b77",
+    "latitude": 39.610202,
+    "id": 11219
+  },
+  {
+    "name": "Damonte",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.754949,
+    "languages": [],
+    "indirectId": "5a2a13b8-be27-40d0-87fe-0810e0d213cf",
+    "latitude": 39.41984,
+    "id": 11229
+  },
+  {
+    "name": "Los Altos",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.740668,
+    "languages": [],
+    "indirectId": "996827f8-944c-4ae5-8076-86fa5c493bab",
+    "latitude": 39.585347,
+    "id": 11239
+  },
+  {
+    "name": "North Hills",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.840245,
+    "languages": [],
+    "indirectId": "d14105fe-bcef-4d47-a40c-f761a30a794c",
+    "latitude": 39.605678,
+    "id": 11249
+  },
+  {
+    "name": "Ryland",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.799102,
+    "languages": [],
+    "indirectId": "d624845d-f440-43a0-866a-cbf4a2f97d5c",
+    "latitude": 39.524336,
+    "id": 11259
+  },
+  {
+    "name": "Summit Ridge",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.858594,
+    "languages": [],
+    "indirectId": "fa92350c-92b1-4829-b9f5-24581a3e7368",
+    "latitude": 39.521324,
+    "id": 11269
+  },
+  {
+    "name": "Vista",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.703102,
+    "languages": [],
+    "indirectId": "897a926d-f88b-4e62-b1f1-813fcc423bfc",
+    "latitude": 39.542624,
+    "id": 11279
+  },
+  {
+    "name": "Fullerton College Admissions Callback",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.920091,
+    "languages": [],
+    "indirectId": "f44ad72f-68ad-488e-8c0a-54ae156797ea",
+    "latitude": 33.874022,
+    "id": 11289
+  },
+  {
+    "name": "SMC",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.4718165,
+    "languages": [],
+    "indirectId": "fed9f958-8c9e-4457-8cad-73fd118c7a72",
+    "latitude": 34.0180525,
+    "id": 12808
+  },
+  {
+    "name": "EMCC",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.3423449,
+    "languages": [],
+    "indirectId": "9969d287-946a-49ba-ae3a-e5901f700038",
+    "latitude": 33.4797241,
+    "id": 12818
+  },
+  {
+    "name": "Melbourne",
+    "showTTbeforeQueue": 0,
+    "longitude": 145.0501192,
+    "languages": [],
+    "indirectId": "9f804e23-d368-4f30-b2a3-72c2f68493c3",
+    "latitude": -37.7217643,
+    "id": 12828
+  },
+  {
+    "name": "Bendigo",
+    "showTTbeforeQueue": 0,
+    "longitude": 144.300998,
+    "languages": [],
+    "indirectId": "57d1e3d7-1880-4e7f-a2c6-34b1881b1a88",
+    "latitude": -36.779279,
+    "id": 12829
+  },
+  {
+    "name": "KPU Richmond",
+    "showTTbeforeQueue": 0,
+    "longitude": -123.127716,
+    "languages": [],
+    "indirectId": "f74015c0-a241-460b-a876-ff0580aaaa60",
+    "latitude": 49.174269,
+    "id": 13019
+  },
+  {
+    "name": "test",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "6165db36-e355-40ae-b2e0-6e45c78a755e",
+    "latitude": null,
+    "id": 13048
+  },
+  {
+    "name": "KPU Surrey",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.8727381,
+    "languages": [],
+    "indirectId": "6251c187-9e8f-48bb-9c17-3ab8fbea4093",
+    "latitude": 49.206025,
+    "id": 13058
+  },
+  {
+    "name": "KPU Langley",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.6580108,
+    "languages": [],
+    "indirectId": "06aa4458-ebb4-44f5-862a-547838f49ab6",
+    "latitude": 49.1512199,
+    "id": 13068
+  },
+  {
+    "name": "SpecChem",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "3f47b458-a4e7-4113-97ac-83ad8ae05d6d",
+    "latitude": null,
+    "id": 13109
+  },
+  {
+    "name": "Chlorpyridines",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "48450470-bde3-40a7-8d28-09af3873b2c6",
+    "latitude": null,
+    "id": 13119
+  },
+  {
+    "name": "Juneau Urgent Care Client",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "c3c1f0e9-be66-45b6-a8cc-1d2be6d968f6",
+    "latitude": null,
+    "id": 15086
+  },
+  {
+    "name": "Juneau Urgent Care Client",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "27e7ff7e-12b1-4a96-b815-571cd5d48c98",
+    "latitude": 58.359615,
+    "id": 15098
+  },
+  {
+    "name": "USA Parkway",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.5803605,
+    "languages": [],
+    "indirectId": "0f0d28c7-56e2-44e1-a3e3-fbe269e9a4b8",
+    "latitude": 39.5351309,
+    "id": 15128
+  },
+  {
+    "name": "Harrah's Lake Tahoe Buffet",
+    "showTTbeforeQueue": 0,
+    "longitude": -119.940672,
+    "languages": [],
+    "indirectId": "077636e5-4219-4c47-99a2-18c8179da467",
+    "latitude": 38.960562,
+    "id": 15129
+  },
+  {
+    "name": "CoyoteQ Henderson Campus",
+    "showTTbeforeQueue": 0,
+    "longitude": -114.965483,
+    "languages": [],
+    "indirectId": "df3a8cf3-5ea9-4669-ba6a-cdb885d90b02",
+    "latitude": 36.007926,
+    "id": 15138
+  },
+  {
+    "name": "CoyoteQ North Las Vegas Campus",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.1046979,
+    "languages": [],
+    "indirectId": "1d43bbe8-5857-4472-898b-f08d678d96d1",
+    "latitude": 36.2200944,
+    "id": 15148
+  },
+  {
+    "name": "CoyoteQ Charleston Campus",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.2309301,
+    "languages": [],
+    "indirectId": "a55528d6-dbc2-4498-9713-28084e3b9cc7",
+    "latitude": 36.1546468,
+    "id": 15158
+  },
+  {
+    "name": "Fallbrook",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.245081,
+    "languages": [],
+    "indirectId": "26bccef9-2923-438b-bd34-e531beb7d823",
+    "latitude": 33.381734,
+    "id": 15168
+  },
+  {
+    "name": "University of San Diego",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.191543,
+    "languages": [],
+    "indirectId": "cefa2148-160b-4f56-99a1-941ba141c7cd",
+    "latitude": 32.772102,
+    "id": 15169
+  },
+  {
+    "name": "Test Campus",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "a47f7b13-61da-411c-a223-0d1e029fa7dc",
+    "latitude": null,
+    "id": 15179
+  },
+  {
+    "name": "Colorado Ski & Golf Littleton",
+    "showTTbeforeQueue": 0,
+    "longitude": -105.0883608,
+    "languages": [],
+    "indirectId": "c38e0c78-dd94-4046-868f-aa20a2b146dd",
+    "latitude": 39.6168689,
+    "id": 15188
+  },
+  {
+    "name": "Any Mountain Pilot",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "2d41c8c0-dbdf-45d4-bda7-801b596b6198",
+    "latitude": null,
+    "id": 15198
+  },
+  {
+    "name": "Colorado Ski & Golf Colorado Springs",
+    "showTTbeforeQueue": 0,
+    "longitude": -104.7817063,
+    "languages": [],
+    "indirectId": "9c78326e-7b60-493e-ac02-5363c7074aa6",
+    "latitude": 38.9081953,
+    "id": 15208
+  },
+  {
+    "name": "Colorado Ski & Golf Arvada",
+    "showTTbeforeQueue": 0,
+    "longitude": -105.0818526,
+    "languages": [],
+    "indirectId": "717d8b8f-20ed-47ac-bba9-e54161750c4a",
+    "latitude": 39.8369739,
+    "id": 15218
+  },
+  {
+    "name": "testLocation",
+    "showTTbeforeQueue": 1,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "2205d3f7-c643-4cc0-b9e7-fe906d533fc0",
+    "latitude": null,
+    "id": 15219
+  },
+  {
+    "name": "AAA - CA-Folsom",
+    "showTTbeforeQueue": 1,
+    "longitude": -121.1206096,
+    "languages": [],
+    "indirectId": "a469415e-175a-498c-98f1-62475a5bb084",
+    "latitude": 38.6549733,
+    "id": 15228
+  },
+  {
+    "name": "SMCC",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.03443,
+    "languages": [],
+    "indirectId": "c3b8358c-0b74-46be-89f0-de2ee9b27ccb",
+    "latitude": 33.383017,
+    "id": 15229
+  },
+  {
+    "name": "Urgent Care at Lake Lucille",
+    "showTTbeforeQueue": 0,
+    "longitude": -149.447599,
+    "languages": [],
+    "indirectId": "62e4bb92-f0e7-4c07-9357-8d401210d794",
+    "latitude": 61.581517,
+    "id": 15249
+  },
+  {
+    "name": "RMIT Connect - Bundoora",
+    "showTTbeforeQueue": 0,
+    "longitude": 145.067224,
+    "languages": [],
+    "indirectId": "8caf2f67-3cc3-40d0-9421-eebe8c0bee99",
+    "latitude": -37.680223,
+    "id": 15318
+  },
+  {
+    "name": "RMIT Connect - Brunswick",
+    "showTTbeforeQueue": 0,
+    "longitude": 144.958079,
+    "languages": [],
+    "indirectId": "37c43edd-3ccd-4499-a321-e60e89cab997",
+    "latitude": -37.771962,
+    "id": 15328
+  },
+  {
+    "name": "AAA - CA-Menlo Park",
+    "showTTbeforeQueue": 1,
+    "longitude": -122.1729536,
+    "languages": [],
+    "indirectId": "87d2b8a5-7429-46e6-b7f7-5ff300d44655",
+    "latitude": 37.4471902,
+    "id": 15338
+  },
+  {
+    "name": "AAA - UT-Salt Lake City",
+    "showTTbeforeQueue": 1,
+    "longitude": -111.82721,
+    "languages": [],
+    "indirectId": "c530ca66-5c35-43f6-9e82-2fe958f4b706",
+    "latitude": 40.739762,
+    "id": 15348
+  },
+  {
+    "name": "Mission Viejo",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.275767,
+    "languages": [],
+    "indirectId": "2c1137d1-a31c-4e3c-b771-ea361cf7325b",
+    "latitude": 34.143904,
+    "id": 15349
+  },
+  {
+    "name": "Plato's Closet Westminster",
+    "showTTbeforeQueue": 0,
+    "longitude": -105.0793055,
+    "languages": [],
+    "indirectId": "0d5b8e8f-9053-45d8-b70f-4b1a226363c3",
+    "latitude": 39.858655,
+    "id": 15358
+  },
+  {
+    "name": "RMIT Info Corner",
+    "showTTbeforeQueue": 0,
+    "longitude": 144.964076,
+    "languages": [],
+    "indirectId": "d74f6e25-0b1e-4c17-86fb-5d56a0377752",
+    "latitude": -37.809236,
+    "id": 15368
+  },
+  {
+    "name": "Geelong Waterfront Campus",
+    "showTTbeforeQueue": 0,
+    "longitude": 145.1146422,
+    "languages": [],
+    "indirectId": "41392dba-d797-48b5-b16e-2a671e93b3ae",
+    "latitude": -37.8459685,
+    "id": 15378
+  },
+  {
+    "name": "FISH Technologies NHL Event",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "de7ef64d-16ae-4271-add3-17ef6e284549",
+    "latitude": null,
+    "id": 15379
+  },
+  {
+    "name": "AAA - CA-Antioch",
+    "showTTbeforeQueue": 1,
+    "longitude": -121.7374417,
+    "languages": [],
+    "indirectId": "bb8d36b8-e895-46e9-a704-7f1345ae91c0",
+    "latitude": 37.9620524,
+    "id": 15388
+  },
+  {
+    "name": "LATTC",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.269903,
+    "languages": [],
+    "indirectId": "114edf8f-2279-4adb-bf40-f8d996842ead",
+    "latitude": 34.0327339,
+    "id": 15398
+  },
+  {
+    "name": "CareClinicRainierAvenue",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.3011517,
+    "languages": [],
+    "indirectId": "0260b76a-e5a5-48d9-bbee-3ae6e2062a44",
+    "latitude": 47.5815711,
+    "id": 15408
+  },
+  {
+    "name": "CareClinicFairwood",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.1524045,
+    "languages": [],
+    "indirectId": "90f3c771-6a3b-4fe6-85be-ad379500a47c",
+    "latitude": 47.4466463,
+    "id": 15418
+  },
+  {
+    "name": "Test",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "1c7947f4-6068-44f0-846e-ac938a3e6473",
+    "latitude": null,
+    "id": 15419
+  },
+  {
+    "name": "RiversideCityCollege",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.3815015,
+    "languages": [],
+    "indirectId": "c5f76116-8323-4cdd-adb8-fb8e0d57b99e",
+    "latitude": 33.9711776,
+    "id": 15428
+  },
+  {
+    "name": "RMITArchitectureDesignWorkshop",
+    "showTTbeforeQueue": 0,
+    "longitude": 144.96246059999999,
+    "languages": [],
+    "indirectId": "1e6a6212-99ad-4798-aee7-1b0a8a6a0087",
+    "latitude": -37.8076543,
+    "id": 15438
+  },
+  {
+    "name": "CerritosCollege",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.0961859,
+    "languages": [],
+    "indirectId": "8ed7f7da-4643-40cd-a5c9-e0a16ecba11d",
+    "latitude": 33.8861464,
+    "id": 15448
+  },
+  {
+    "name": "CNM Connect Main",
+    "showTTbeforeQueue": 0,
+    "longitude": -106.6248242,
+    "languages": [],
+    "indirectId": "f24943b1-c5a3-4081-8cd5-f52253676a36",
+    "latitude": 35.0753119,
+    "id": 18892
+  },
+  {
+    "name": "BrightonGreens",
+    "showTTbeforeQueue": 0,
+    "longitude": -121.0732628,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "79106371-9a04-495b-9a78-11cd14a8cbcd",
+    "latitude": 39.2093959,
+    "id": 18898
+  },
+  {
+    "name": "Rio Salado Tempe",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.9763635,
+    "languages": [],
+    "indirectId": "bc1ff7b1-80a8-4f3a-bfcc-759b864c544c",
+    "latitude": 33.4133049,
+    "id": 18908
+  },
+  {
+    "name": "Rio_Salado_Callback",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.9763635,
+    "languages": [],
+    "indirectId": "715ce580-1309-4264-969b-50f8634d168a",
+    "latitude": 33.4133049,
+    "id": 18918
+  },
+  {
+    "name": "CareClinicGreenwood",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "1147516f-55d9-453b-9dc7-149be11b2f4f",
+    "latitude": null,
+    "id": 18928
+  },
+  {
+    "name": "CareClinicSammamish",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "3b3a9915-4653-4449-8927-fb783dff4a0d",
+    "latitude": null,
+    "id": 18938
+  },
+  {
+    "name": "CareClinicUniversityVillage",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "b8295586-db51-49d1-847f-ab1b41f0b751",
+    "latitude": null,
+    "id": 18948
+  },
+  {
+    "name": "CareClinicBellevueVillage",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "a873e487-5708-4b87-8568-fb709f6697a7",
+    "latitude": null,
+    "id": 18958
+  },
+  {
+    "name": "CareClinicBallard",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "396e076d-549b-4ed7-a44f-06f83fe4e239",
+    "latitude": null,
+    "id": 18968
+  },
+  {
+    "name": "CareClinicCrossroads",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "379de12f-5c19-425e-b7e0-8dabb7594b96",
+    "latitude": null,
+    "id": 18978
+  },
+  {
+    "name": "Central_Enrollment",
+    "showTTbeforeQueue": 0,
+    "longitude": -104.7067239,
+    "languages": [],
+    "indirectId": "324d62fb-4096-4179-84bb-24b7f2db3097",
+    "latitude": 38.8858937,
+    "id": 18998
+  },
+  {
+    "name": "Advising-Staff",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "89e4eb76-ff45-43e4-ad49-471bcfcd9b73",
+    "latitude": null,
+    "id": 19018
+  },
+  {
+    "name": "Paramount",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "indirectId": "67e7ea87-09b5-49df-920f-f9523d28d59c",
+    "latitude": null,
+    "id": 19028
+  },
+  {
+    "name": "Admissions",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "c01bf1bb-8a1b-4ec1-95cb-da5c321f0ef6",
+    "latitude": null,
+    "id": 19038
+  },
+  {
+    "name": "FinancialAid",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "ac554996-ae55-49ec-8c42-54cb424f4a96",
+    "latitude": null,
+    "id": 19048
+  },
+  {
+    "name": "FreshIsland",
+    "showTTbeforeQueue": 0,
+    "longitude": -94.1892371,
+    "languages": [],
+    "indirectId": "d9b540cb-8e38-4fbe-89ff-2545fba4a626",
+    "latitude": 36.346186,
+    "id": 19058
+  },
+  {
+    "name": "3315Lager_Heads",
+    "showTTbeforeQueue": 0,
+    "longitude": -75.9808664,
+    "languages": [],
+    "indirectId": "0a3fa44f-7fed-4bf9-bdc8-a0f72895f549",
+    "latitude": 36.8616632,
+    "id": 19068
+  },
+  {
+    "name": "Lebanon License Office",
+    "showTTbeforeQueue": 0,
+    "longitude": -92.666748,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "b12478ee-72ea-4331-8956-14340a72a511",
+    "latitude": 37.6821962,
+    "id": 19078
+  },
+  {
+    "name": "Thechiroport",
+    "showTTbeforeQueue": 0,
+    "longitude": -93.2073213,
+    "languages": [],
+    "indirectId": "ecf796f4-9625-4931-aa34-5dbcfa8d7ae9",
+    "latitude": 44.8825732,
+    "id": 19088
+  },
+  {
+    "name": "GearyCountyTreasurersOffice",
+    "showTTbeforeQueue": 0,
+    "longitude": -96.8292532,
+    "languages": [],
+    "indirectId": "c82d7e37-249a-4397-80bd-624596350c7c",
+    "latitude": 39.0306482,
+    "id": 19098
+  },
+  {
+    "name": "FISH Technologies NFL Event",
+    "showTTbeforeQueue": 0,
+    "longitude": -87.6276638,
+    "languages": [],
+    "indirectId": "82be04af-e4e1-4fc6-a548-86f7540616e2",
+    "latitude": 41.8757719,
+    "id": 19099
+  },
+  {
+    "name": "Location1",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "5cd236b2-dcc2-4706-b226-b38883ab0b48",
+    "latitude": null,
+    "id": 19108
+  },
+  {
+    "name": "GardenGrovePharmacy",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.5921299,
+    "languages": [],
+    "indirectId": "59bde613-ff12-41c4-86c9-f49c4bac4237",
+    "latitude": 34.170389,
+    "id": 19118
+  },
+  {
+    "name": "TestAPI",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "b1362ad7-8801-469c-810b-bf4f003ac61e",
+    "latitude": null,
+    "id": 19138
+  },
+  {
+    "name": "CNM Connect Montoya",
+    "showTTbeforeQueue": 0,
+    "longitude": -106.5186687,
+    "languages": [],
+    "indirectId": "19496f66-3a37-4b70-8320-5e1fdd4626d5",
+    "latitude": 35.1354268,
+    "id": 19148
+  },
+  {
+    "name": "CNM Connect Westside",
+    "showTTbeforeQueue": 0,
+    "longitude": -106.7314548,
+    "languages": [],
+    "indirectId": "5cc67860-5d3e-4454-871a-920cb0cdc24c",
+    "latitude": 35.2094024,
+    "id": 19158
+  },
+  {
+    "name": "CNM Connect South Valley",
+    "showTTbeforeQueue": 0,
+    "longitude": -106.692266,
+    "languages": [],
+    "indirectId": "4cd5c6d6-bc90-4bdc-b188-309c07cfa38a",
+    "latitude": 34.996096,
+    "id": 19168
+  },
+  {
+    "name": "CNM Connect Rio Rancho",
+    "showTTbeforeQueue": 0,
+    "longitude": -106.6851857,
+    "languages": [],
+    "indirectId": "62b9aef2-a570-4e9a-8e38-9b8fd1a320d6",
+    "latitude": 35.317471,
+    "id": 19178
+  },
+  {
+    "name": "SFMOMA",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.4029943,
+    "languages": [],
+    "indirectId": "8eda1bfd-534c-4dcc-903d-4ac6d3b2581d",
+    "latitude": 37.7859114,
+    "id": 19198
+  },
+  {
+    "name": "Tires",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "141f2ae2-7896-4138-a414-7b9d70e4f310",
+    "latitude": null,
+    "id": 19208
+  },
+  {
+    "name": "AAA - CA-Santa Rosa Farmers Lane",
+    "showTTbeforeQueue": 1,
+    "longitude": -122.6882124,
+    "languages": [],
+    "indirectId": "3c47d0ba-6719-439d-9ae5-997147f54a99",
+    "latitude": 38.4345904,
+    "id": 19218
+  },
+  {
+    "name": "CerritosCollegeWorkshop",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.0961859,
+    "languages": [],
+    "indirectId": "6f828e5a-10b2-4ae2-8586-5249707352fc",
+    "latitude": 33.8861464,
+    "id": 19219
+  },
+  {
+    "name": "complaints",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "bb3499aa-c9e4-4cf4-81b3-2e67c602cf55",
+    "latitude": null,
+    "id": 19238
+  },
+  {
+    "name": "high_end",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "a3a0a6be-f246-4089-90e6-7a3204a19dd3",
+    "latitude": null,
+    "id": 19248
+  },
+  {
+    "name": "Placerville CDA",
+    "showTTbeforeQueue": 0,
+    "longitude": -120.8321406,
+    "languages": [],
+    "indirectId": "63ea7fcc-39a0-451e-8def-bdfb55c8fa46",
+    "latitude": 38.7278545,
+    "id": 19258
+  },
+  {
+    "name": "PVCC Training ",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "150f3df2-42e0-46b9-b091-027f974b6e9b",
+    "latitude": null,
+    "id": 19268
+  },
+  {
+    "name": "BellevueCollege",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.1479574,
+    "languages": [],
+    "indirectId": "18ef1edc-e1f9-4f20-b6d6-452c7b325637",
+    "latitude": 47.5851939,
+    "id": 19278
+  },
+  {
+    "name": "Kingswood",
+    "showTTbeforeQueue": 0,
+    "longitude": 150.7281742,
+    "languages": [
+      "en_AU"
+    ],
+    "indirectId": "61e6d675-ed99-4fe9-b6ef-3ed8e3c5ed99",
+    "latitude": -33.7675153,
+    "id": 19298
+  },
+  {
+    "name": "CareClinicAlderwood",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.2676762,
+    "languages": [],
+    "indirectId": "ef8a6f66-9cc3-4961-bcd1-42d80d21c848",
+    "latitude": 47.8207717,
+    "id": 19328
+  },
+  {
+    "name": "CareClinicWestSeattle",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.3846722,
+    "languages": [],
+    "indirectId": "94b262ff-3d14-44db-a457-31875c2bb5a4",
+    "latitude": 47.5607953,
+    "id": 19338
+  },
+  {
+    "name": "Testing 1PSQ",
+    "showTTbeforeQueue": 0,
+    "longitude": 151.0035623,
+    "languages": [
+      "en_AU"
+    ],
+    "indirectId": "31c967b0-467f-49d6-b524-48c52f8fb176",
+    "latitude": -33.8159896,
+    "id": 19378
+  },
+  {
+    "name": "Brucifers_Time_Travel_Adventures_WEST",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "3de1fac2-5100-47e6-a4e9-23c6ca095f26",
+    "latitude": null,
+    "id": 19388
+  },
+  {
+    "name": "Brucifers_Time_Travel_Adventures_EAST",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "df42e75b-c0e8-4c9a-a84d-8e69fe721600",
+    "latitude": null,
+    "id": 19398
+  },
+  {
+    "name": "Crafton Hills College",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.1044945,
+    "languages": [],
+    "indirectId": "caa182f0-d323-4489-bace-8ebecf1637c6",
+    "latitude": 34.0388208,
+    "id": 19408
+  },
+  {
+    "name": "City_Clerk_Passport_Services",
+    "showTTbeforeQueue": 0,
+    "longitude": -114.983878,
+    "languages": [],
+    "indirectId": "60fb9460-4394-4526-a3ad-6ac5890b593d",
+    "latitude": 36.0299498,
+    "id": 19418
+  },
+  {
+    "name": "1",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.2044786,
+    "languages": [],
+    "indirectId": "3dabfea5-485a-4997-9a12-3e84fa20eb7d",
+    "latitude": 32.8544191,
+    "id": 19438
+  },
+  {
+    "name": "University of British Columbia Vancouver Campus",
+    "showTTbeforeQueue": 0,
+    "longitude": -123.2545649,
+    "languages": [],
+    "indirectId": "1008f25b-0aac-41be-b383-40334373d25c",
+    "latitude": 49.2686239,
+    "id": 19448
+  },
+  {
+    "name": "AAA - CA-Santa Rosa Mendocino Avenue",
+    "showTTbeforeQueue": 1,
+    "longitude": -122.7189567,
+    "languages": [],
+    "indirectId": "58da3a69-0c93-477f-8175-5eec7c8e2f21",
+    "latitude": 38.4607892,
+    "id": 19458
+  },
+  {
+    "name": "ITS-Testing",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "84b424c3-34be-48ef-a3ac-e0a2ae069e41",
+    "latitude": null,
+    "id": 19488
+  },
+  {
+    "name": "TEST",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "346907ef-5246-4df8-a5a7-7a7c8b798087",
+    "latitude": null,
+    "id": 19588
+  },
+  {
+    "name": "TAFENSWMeadowbankCampus",
+    "showTTbeforeQueue": 0,
+    "longitude": 151.0907593,
+    "languages": [
+      "en_AU"
+    ],
+    "indirectId": "d3713aef-d1c0-49d5-8e1e-d74f9e2d83bf",
+    "latitude": -33.8149426,
+    "id": 19598
+  },
+  {
+    "name": "OaklandUSDLakeviewWelcomeCenter",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.2506985,
+    "languages": [
+      "en",
+      "es",
+      "zh",
+      "vi"
+    ],
+    "indirectId": "a2c6e41c-0e71-4b8b-b956-f61c02c545e0",
+    "latitude": 37.8112653,
+    "id": 19628
+  },
+  {
+    "name": "ThunderCafe",
+    "showTTbeforeQueue": 0,
+    "longitude": -121.3161618,
+    "languages": [],
+    "indirectId": "7e6199a8-91af-4b84-8573-e4457a29c925",
+    "latitude": 38.8405848,
+    "id": 19638
+  },
+  {
+    "name": "FISH Technologies Navy Nimitz",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "260ee128-22db-49b9-8369-756199a257bd",
+    "latitude": null,
+    "id": 19648
+  },
+  {
+    "name": "US Open",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "6f3bf975-b9dd-4a9d-9b9f-2aef4b8b8fbc",
+    "latitude": null,
+    "id": 19668
+  },
+  {
+    "name": "Parramatta South",
+    "showTTbeforeQueue": 0,
+    "longitude": 151.0229532,
+    "languages": [
+      "en_AU"
+    ],
+    "indirectId": "9fcf6951-b055-4b5c-9dd2-196243ff926f",
+    "latitude": -33.8118321,
+    "id": 19678
+  },
+  {
+    "name": "GWCC",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.9975595,
+    "languages": [
+      ""
+    ],
+    "indirectId": "581891e2-665c-40f1-ad2d-561a425a71b3",
+    "latitude": 33.4492365,
+    "id": 19688
+  },
+  {
+    "name": "Conferencia",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "es"
+    ],
+    "indirectId": "21d30c0e-4766-40da-8575-a30a686f1762",
+    "latitude": null,
+    "id": 19698
+  },
+  {
+    "name": "11",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.199452,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "80a1b331-ba91-458f-b064-68ff9415a920",
+    "latitude": 36.1725362,
+    "id": 19708
+  },
+  {
+    "name": "FISH Technologies Navy Burke",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "e3c79a32-cdbe-40b1-af11-859eee3583e2",
+    "latitude": null,
+    "id": 19718
+  },
+  {
+    "name": "01",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.2766054,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "1ab84352-5895-4e42-a663-9e78c5871762",
+    "latitude": 34.0498158,
+    "id": 19728
+  },
+  {
+    "name": "RioDemo",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "ff75806d-12e3-4232-a88b-5f64c3a3d156",
+    "latitude": null,
+    "id": 19738
+  },
+  {
+    "name": "KPU International",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.8705974,
+    "languages": [],
+    "indirectId": "7d3ce4b2-8f82-4487-85dd-9b5ee4c6d904",
+    "latitude": 49.1324445,
+    "id": 19748
+  },
+  {
+    "name": "MCC Student Success Center",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "d2b40d74-73db-439e-af0a-9f75e412c71b",
+    "latitude": null,
+    "id": 19758
+  },
+  {
+    "name": "RCPEmployeeJioStore",
+    "showTTbeforeQueue": 0,
+    "longitude": 73.0117981,
+    "languages": [],
+    "indirectId": "8837ceea-f0e9-4280-b845-a305e01f7c2a",
+    "latitude": 19.1253277,
+    "id": 19768
+  },
+  {
+    "name": "Klinic_Spesialis_Moegni",
+    "showTTbeforeQueue": 0,
+    "longitude": 106.8329742,
+    "languages": [],
+    "indirectId": "054b90a3-e604-4344-8808-6d839debbad4",
+    "latitude": -6.1989438,
+    "id": 19778
+  },
+  {
+    "name": "FISH Technologies Navy Test Location",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "1a2a54d2-820e-4303-9aa7-71fe67fbab74",
+    "latitude": null,
+    "id": 19788
+  },
+  {
+    "name": "AAA - CA-Pleasant Hill",
+    "showTTbeforeQueue": 1,
+    "longitude": -122.0583122,
+    "languages": [],
+    "indirectId": "90360efa-f24f-429f-9bf5-e7687f9db602",
+    "latitude": 37.9448944,
+    "id": 19798
+  },
+  {
+    "name": "FISH_Technologies_Navy_Test_Location",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      ""
+    ],
+    "indirectId": "3c3b8f09-1efd-45ca-a64c-e7ef63b7a459",
+    "latitude": null,
+    "id": 19818
+  },
+  {
+    "name": "ERAC",
+    "showTTbeforeQueue": 0,
+    "longitude": -121.0287045,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "137fb30c-a1d4-4d6b-ae83-43bc7c74ab31",
+    "latitude": 39.2698663,
+    "id": 20099
+  },
+  {
+    "name": "AAA - CA-Natomas",
+    "showTTbeforeQueue": 1,
+    "longitude": -121.524527,
+    "languages": [],
+    "indirectId": "683b23ad-bbe5-4a79-ab08-18e188f8b728",
+    "latitude": 38.656745,
+    "id": 20108
+  },
+  {
+    "name": "Records",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.446313,
+    "languages": [],
+    "indirectId": "a84ca65e-21eb-4090-be93-d8f8e0984ec3",
+    "latitude": 47.2533336,
+    "id": 20118
+  },
+  {
+    "name": "Greater_Kailash_1",
+    "showTTbeforeQueue": 0,
+    "longitude": 77.241993,
+    "languages": [],
+    "indirectId": "33f55381-f33d-4a7f-bb72-2878b81b9353",
+    "latitude": 28.5500186,
+    "id": 20128
+  },
+  {
+    "name": "San Bernardino Valley College",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.3151469,
+    "languages": [],
+    "indirectId": "403a2288-90ff-4b32-9690-1f0c87bf535f",
+    "latitude": 34.0887584,
+    "id": 20138
+  },
+  {
+    "name": "Womens-Leadership-Conference",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "0279bbc9-abbc-4533-9461-c849f8f6faea",
+    "latitude": null,
+    "id": 20148
+  },
+  {
+    "name": "Trillium Massage",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "6fd98534-a383-44d8-82b3-0b37663f6002",
+    "latitude": null,
+    "id": 20168
+  },
+  {
+    "name": "BoondocksParker",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "f639c3d3-b929-4bdc-92d2-9baf3eafa60e",
+    "latitude": null,
+    "id": 20238
+  },
+  {
+    "name": "RMIT Enrolment",
+    "showTTbeforeQueue": 0,
+    "longitude": 144.9587372,
+    "languages": [],
+    "indirectId": "3f88e2fc-16a1-44ff-9709-357dc07b4023",
+    "latitude": -37.808777,
+    "id": 20248
+  },
+  {
+    "name": "DRC",
+    "showTTbeforeQueue": 0,
+    "longitude": -106.6266331,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "ad23231e-40de-4f7c-80f5-b1a853e6d96e",
+    "latitude": 35.0761211,
+    "id": 20249
+  },
+  {
+    "name": "Siloam Hospital Kebon Jeruk",
+    "showTTbeforeQueue": 0,
+    "longitude": 106.7618379,
+    "languages": [],
+    "indirectId": "04cad818-c0a4-402d-a2d6-339c811245eb",
+    "latitude": -6.1908367,
+    "id": 20259
+  },
+  {
+    "name": "AAA - CA-Alameda",
+    "showTTbeforeQueue": 1,
+    "longitude": -122.2815052,
+    "languages": [],
+    "indirectId": "3bff06e7-b1e0-4ad3-8deb-852e77cf9bd0",
+    "latitude": 37.7866118,
+    "id": 20268
+  },
+  {
+    "name": "Parramatta City",
+    "showTTbeforeQueue": 0,
+    "longitude": 151.0034062,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "1754d582-26bc-4ce0-846e-db3d84679c80",
+    "latitude": -33.8160326,
+    "id": 20278
+  },
+  {
+    "name": "TAFENSWHornsbyCampus",
+    "showTTbeforeQueue": 0,
+    "longitude": 151.0952358,
+    "languages": [
+      "en_AU"
+    ],
+    "indirectId": "50e8fc73-8abb-44f7-8b86-0a9f18642a03",
+    "latitude": -33.6995147,
+    "id": 20288
+  },
+  {
+    "name": "TAFENSWStLeonardsCampus",
+    "showTTbeforeQueue": 0,
+    "longitude": 151.1925293,
+    "languages": [
+      "en_AU"
+    ],
+    "indirectId": "f6554590-8cae-4f1c-9ab5-1a7b87959832",
+    "latitude": -33.8232547,
+    "id": 20298
+  },
+  {
+    "name": "TAFENSWRydeCampus",
+    "showTTbeforeQueue": 0,
+    "longitude": 151.1019901,
+    "languages": [
+      "en_AU"
+    ],
+    "indirectId": "664475f5-70e7-4fc3-a9b6-28ef26add833",
+    "latitude": -33.8068631,
+    "id": 20308
+  },
+  {
+    "name": "TAFENSWBrookvaleCampus",
+    "showTTbeforeQueue": 0,
+    "longitude": 151.2609704,
+    "languages": [
+      "en_AU"
+    ],
+    "indirectId": "a958f8d3-7014-4f51-b260-2c6c64f1790d",
+    "latitude": -33.7688266,
+    "id": 20318
+  },
+  {
+    "name": "CCHC - North Hollywood",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.4007531,
+    "languages": [
+      "en",
+      "es_US"
+    ],
+    "indirectId": "47485730-5a59-4971-aa90-d4868dceddfb",
+    "latitude": 34.1870224,
+    "id": 20328
+  },
+  {
+    "name": "VUCinternal",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.5386204,
+    "languages": [],
+    "indirectId": "94be1219-300e-4a57-bbdd-a854d3467367",
+    "latitude": 34.2401773,
+    "id": 20338
+  },
+  {
+    "name": "Rio Salado College - Southern",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.8959659,
+    "languages": [],
+    "indirectId": "4182f875-34ff-4eff-b376-7e1109f89204",
+    "latitude": 33.3918988,
+    "id": 20348
+  },
+  {
+    "name": "Rio Salado College - Northern",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.0993235,
+    "languages": [],
+    "indirectId": "439afb77-033a-40ec-9622-7aa26b803be8",
+    "latitude": 33.5525774,
+    "id": 20358
+  },
+  {
+    "name": "Rio Salado College - Avondale",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.3522968,
+    "languages": [],
+    "indirectId": "f72a2edc-20c3-499a-95fd-2aca65c1af2c",
+    "latitude": 33.4394369,
+    "id": 20368
+  },
+  {
+    "name": "Rio Salado College - LLC",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.3334383,
+    "languages": [],
+    "indirectId": "25dbc519-9004-435d-8a4a-6f3ac2fbbc5a",
+    "latitude": 33.6379758,
+    "id": 20378
+  },
+  {
+    "name": "Honda_CES_2017",
+    "showTTbeforeQueue": 0,
+    "longitude": -115.1575239,
+    "languages": [
+      ""
+    ],
+    "indirectId": "2477e892-5ed8-439e-938e-e39573c32d73",
+    "latitude": 36.1325407,
+    "id": 20388
+  },
+  {
+    "name": "Tuality_Physicians",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      ""
+    ],
+    "indirectId": "62c72a94-3c88-4629-8ef8-7c467ad9fca9",
+    "latitude": null,
+    "id": 20398
+  },
+  {
+    "name": "StMarys",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      ""
+    ],
+    "indirectId": "ee9b9fb3-cb05-4431-b50e-a463fe10b6c2",
+    "latitude": null,
+    "id": 20408
+  },
+  {
+    "name": "Lockwood",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en",
+      "zh",
+      "es",
+      "vi"
+    ],
+    "indirectId": "779fa084-fea0-4d1b-b6c5-bb31164ec1f0",
+    "latitude": null,
+    "id": 20418
+  },
+  {
+    "name": "AAA - NV-Las Vegas Rainbow",
+    "showTTbeforeQueue": 1,
+    "longitude": -115.2461102,
+    "languages": [
+      ""
+    ],
+    "indirectId": "003d1ad8-a236-4818-a244-fdf64a35023b",
+    "latitude": 36.1609306,
+    "id": 20428
+  },
+  {
+    "name": "CountyofMontereyRMAPermitCenter",
+    "showTTbeforeQueue": 1,
+    "longitude": -121.6619615,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "b3b77ad6-9f2c-4031-b5ba-9135dc772ad8",
+    "latitude": 36.6740739,
+    "id": 20438
+  },
+  {
+    "name": "SMCC Test",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.03443,
+    "languages": [],
+    "indirectId": "42ab6337-9f8f-4040-af18-22887d24b6fc",
+    "latitude": 33.383017,
+    "id": 20439
+  },
+  {
+    "name": "PC Test",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.9763635,
+    "languages": [],
+    "indirectId": "be91702d-7614-45f9-bf2d-79beb1174d7b",
+    "latitude": 33.4133049,
+    "id": 20449
+  },
+  {
+    "name": "GCC Test",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.9763635,
+    "languages": [],
+    "indirectId": "12a7724e-831a-4fd0-baef-ef74542b2ff8",
+    "latitude": 33.4133049,
+    "id": 20459
+  },
+  {
+    "name": "GWCC",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.9975595,
+    "languages": [],
+    "indirectId": "2101050b-0e02-4b12-906f-d1eb7a9bb28e",
+    "latitude": 33.4492365,
+    "id": 20469
+  },
+  {
+    "name": "MCC Test",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "1438a214-e88d-4788-9961-3817d8b6945c",
+    "latitude": null,
+    "id": 20479
+  },
+  {
+    "name": "SCC Test",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "5bba717f-d2c3-40f9-8112-b270142478ca",
+    "latitude": null,
+    "id": 20489
+  },
+  {
+    "name": "CGCC Test",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "2a2e69b0-71e2-40f9-a72a-7221049d3e6c",
+    "latitude": null,
+    "id": 20499
+  },
+  {
+    "name": "PVCC Test",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "cf9f3436-1e94-4992-991b-3ffa0dcc6e78",
+    "latitude": null,
+    "id": 20509
+  },
+  {
+    "name": "EMCC Test",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "56fb4bda-a89a-4ee0-a3fa-fd154b9c1932",
+    "latitude": null,
+    "id": 20519
+  },
+  {
+    "name": "Bankstown",
+    "showTTbeforeQueue": 0,
+    "longitude": 150.988764,
+    "languages": [],
+    "indirectId": "f923c19c-3437-4152-8efa-6d87b3cafe8a",
+    "latitude": -33.9398455,
+    "id": 20528
+  },
+  {
+    "name": "Campbelltown",
+    "showTTbeforeQueue": 0,
+    "longitude": 150.8004388,
+    "languages": [],
+    "indirectId": "e50474c0-a64a-4271-86a6-f5e339a42f6a",
+    "latitude": -34.0680353,
+    "id": 20538
+  },
+  {
+    "name": "Nirimba",
+    "showTTbeforeQueue": 0,
+    "longitude": 150.87709,
+    "languages": [],
+    "indirectId": "a9c2e9c5-7509-49a4-aa91-d09843c2368c",
+    "latitude": -33.727114,
+    "id": 20548
+  },
+  {
+    "name": "Hawkesbury",
+    "showTTbeforeQueue": 0,
+    "longitude": 150.749917,
+    "languages": [],
+    "indirectId": "0a05e6c5-43dc-4469-b989-a2ae36788f26",
+    "latitude": -33.613709,
+    "id": 20558
+  },
+  {
+    "name": "Rio Salado College - Queen Creek",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.6375812,
+    "languages": [],
+    "indirectId": "9583dbdc-c327-403c-bceb-09336361b522",
+    "latitude": 33.2510279,
+    "id": 20568
+  },
+  {
+    "name": "Rio Salado College - Downtown",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.084418,
+    "languages": [],
+    "indirectId": "ac15da73-da1b-4ed5-a5d3-4a2afe577d70",
+    "latitude": 33.4550242,
+    "id": 20588
+  },
+  {
+    "name": "Rio Salado College - Thomas",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.140408,
+    "languages": [],
+    "indirectId": "c477a2ba-e916-4581-8762-ccbaff959c2d",
+    "latitude": 33.4799965,
+    "id": 20598
+  },
+  {
+    "name": "Rio Salado College - EVVEC",
+    "showTTbeforeQueue": 0,
+    "longitude": -111.8959659,
+    "languages": [],
+    "indirectId": "0756e7d5-ae20-42ff-bc0a-0d9af8c88586",
+    "latitude": 33.3918988,
+    "id": 20608
+  },
+  {
+    "name": "Rio Salado College - LAFB",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.3606465,
+    "languages": [],
+    "indirectId": "79b69cf7-78b3-464e-8f97-b883fe1013b3",
+    "latitude": 33.5421214,
+    "id": 20618
+  },
+  {
+    "name": "AAA-CA-WalnutCreekHQ",
+    "showTTbeforeQueue": 1,
+    "longitude": -122.0614412,
+    "languages": [],
+    "indirectId": "47b3e2db-eb9b-41bc-8175-346da84c36d5",
+    "latitude": 37.9269706,
+    "id": 20628
+  },
+  {
+    "name": "AAA-UT-Farmington",
+    "showTTbeforeQueue": 1,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "02411d7f-5c06-43f9-86dc-8133845da567",
+    "latitude": null,
+    "id": 20638
+  },
+  {
+    "name": "AAA-CA-Vacaville",
+    "showTTbeforeQueue": 1,
+    "longitude": -121.9652476,
+    "languages": [],
+    "indirectId": "7b89557e-af8b-4ed1-a454-77ee4ffeab16",
+    "latitude": 38.3677307,
+    "id": 20648
+  },
+  {
+    "name": "RMIT Job Shop",
+    "showTTbeforeQueue": 0,
+    "longitude": 144.960526,
+    "languages": [],
+    "indirectId": "8d5d4d03-9e68-4287-89d7-701198f04ed3",
+    "latitude": -37.80843,
+    "id": 20658
+  },
+  {
+    "name": "Victor_Valley_College",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.2691572,
+    "languages": [],
+    "indirectId": "b8a93728-94e4-475c-8755-e83ee9bf4113",
+    "latitude": 34.4735081,
+    "id": 20668
+  },
+  {
+    "name": "CNM Veterans",
+    "showTTbeforeQueue": 0,
+    "longitude": -106.6312265,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "442a7eee-94f0-4eba-9acc-e9d7ba4c601f",
+    "latitude": 35.0719085,
+    "id": 20678
+  },
+  {
+    "name": "Concord Walk in Center",
+    "showTTbeforeQueue": 0,
+    "longitude": -71.494865,
+    "languages": [],
+    "indirectId": "7233630c-66ca-4a58-9785-1c1643578908",
+    "latitude": 43.210893,
+    "id": 20688
+  },
+  {
+    "name": "SydneyOlympicPark",
+    "showTTbeforeQueue": 0,
+    "longitude": 151.0687807,
+    "languages": [],
+    "indirectId": "c8ceb129-1bee-4a55-bfcb-ef7f0fef4bfd",
+    "latitude": -33.8454486,
+    "id": 20698
+  },
+  {
+    "name": "CareClinicDesMoines",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.301384,
+    "languages": [],
+    "indirectId": "1b76dac6-d1f0-4a17-b904-c255a922e998",
+    "latitude": 47.4077756,
+    "id": 20718
+  },
+  {
+    "name": "CareClinicSilverLake",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.209512,
+    "languages": [],
+    "indirectId": "a51e58ca-7898-4893-9742-63a449a7c2e0",
+    "latitude": 47.8975858,
+    "id": 20728
+  },
+  {
+    "name": "Portsmouth Walk in Center",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "51446393-f690-4ccb-bde6-e19a480e2555",
+    "latitude": null,
+    "id": 20768
+  },
+  {
+    "name": "Nashua Walk in Center",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "9d3d44ab-b928-4e2d-bc00-5d4a344eefaa",
+    "latitude": null,
+    "id": 20778
+  },
+  {
+    "name": "Global",
+    "showTTbeforeQueue": 0,
+    "longitude": -106.6312265,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "db21036b-df31-4360-863f-98c4f1965280",
+    "latitude": 35.0719085,
+    "id": 20788
+  },
+  {
+    "name": "RSC Test",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "a8993377-2729-4a4c-a2a9-3951c7a4d93d",
+    "latitude": null,
+    "id": 20798
+  },
+  {
+    "name": "AAA-NV-LasVegasAliante",
+    "showTTbeforeQueue": 1,
+    "longitude": -115.1806257,
+    "languages": [
+      ""
+    ],
+    "indirectId": "d610b2d4-ccd7-49e2-b213-8e76c4cb8d30",
+    "latitude": 36.285916,
+    "id": 20808
+  },
+  {
+    "name": "AAA-CA-FresnoRiverside",
+    "showTTbeforeQueue": 1,
+    "longitude": -119.9127,
+    "languages": [],
+    "indirectId": "5e119e96-111d-4301-883b-9d59ab6ac821",
+    "latitude": 36.8363276,
+    "id": 20818
+  },
+  {
+    "name": "South Lake Tahoe CDA",
+    "showTTbeforeQueue": 0,
+    "longitude": -120.0089142,
+    "languages": [],
+    "indirectId": "2d75e593-dc18-45e6-b1c4-40fb565fcb94",
+    "latitude": 38.9154179,
+    "id": 20828
+  },
+  {
+    "name": "AAA-CA-ClovisHerndon",
+    "showTTbeforeQueue": 1,
+    "longitude": -119.6995232,
+    "languages": [],
+    "indirectId": "28da8fcc-8932-4ef5-9236-f085b29ebe69",
+    "latitude": 36.8373971,
+    "id": 20838
+  },
+  {
+    "name": "AAA-CA-SacramentoDowntown",
+    "showTTbeforeQueue": 1,
+    "longitude": -121.5012816,
+    "languages": [],
+    "indirectId": "cad0bede-2793-43d0-8112-e7c51c48af0d",
+    "latitude": 38.5788591,
+    "id": 20868
+  },
+  {
+    "name": "City Hall - One Stop Shop",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.377511,
+    "languages": [],
+    "indirectId": "96ab9ced-bf64-40f1-8b84-9e74849afacf",
+    "latitude": 33.9806219,
+    "id": 20898
+  },
+  {
+    "name": "Writing Lab",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "a466f0fc-418e-4b3b-8a8e-bb8f7e8c95ac",
+    "latitude": null,
+    "id": 20908
+  },
+  {
+    "name": "Development_Services",
+    "showTTbeforeQueue": 0,
+    "longitude": -121.5728575,
+    "languages": [],
+    "indirectId": "1485c50a-8744-4f4b-addd-ff41f9869b2b",
+    "latitude": 39.5245304,
+    "id": 20918
+  },
+  {
+    "name": "AAA-CA-Milpitas",
+    "showTTbeforeQueue": 1,
+    "longitude": -121.897434,
+    "languages": [],
+    "indirectId": "70846656-7d3b-4b94-8eec-02fad83ba83c",
+    "latitude": 37.4333319,
+    "id": 20938
+  },
+  {
+    "name": "P253",
+    "showTTbeforeQueue": 0,
+    "longitude": -114.0661872,
+    "languages": [],
+    "indirectId": "91e83bef-d108-4238-a9a7-8a76986bc3ec",
+    "latitude": 50.9029719,
+    "id": 20958
+  },
+  {
+    "name": "AAA-CA-SanJoseAlmaden",
+    "showTTbeforeQueue": 1,
+    "longitude": -121.8784076,
+    "languages": [],
+    "indirectId": "b87b84e4-5234-4f1f-9332-7feb5b8275d2",
+    "latitude": 37.259864,
+    "id": 20968
+  },
+  {
+    "name": "South Seattle College Financial Aid",
+    "showTTbeforeQueue": 0,
+    "longitude": -122.352762,
+    "languages": [
+      "en"
+    ],
+    "indirectId": "34350f36-8be5-44a6-ba91-68cfc24cf69c",
+    "latitude": 47.547929,
+    "id": 20978
+  },
+  {
+    "name": "Maccheroni",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.2507395,
+    "languages": [],
+    "indirectId": "e0aa2f81-bce9-497e-aafa-6e16178e2a36",
+    "latitude": 34.0500424,
+    "id": 21049
+  },
+  {
+    "name": "CareClinicGigHarbor",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "4eabed2d-f84e-493e-b9aa-5d22aaf719bc",
+    "latitude": null,
+    "id": 21059
+  },
+  {
+    "name": "ECE",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "bc10e0d2-7b61-4a61-a2e6-ee9f0182b271",
+    "latitude": null,
+    "id": 21069
+  },
+  {
+    "name": "02",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "d35da2a7-9a21-4deb-bb37-094b0e05a088",
+    "latitude": null,
+    "id": 21079
+  },
+  {
+    "name": "04",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "c2a424aa-6d15-42b2-ab76-b0f29ea0dacb",
+    "latitude": null,
+    "id": 21089
+  },
+  {
+    "name": "03",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "2d893c3a-6c5e-4c80-9369-da82c5dc1b8f",
+    "latitude": null,
+    "id": 21099
+  },
+  {
+    "name": "05",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "0a4122b3-62d1-4010-9293-7f66c3295d25",
+    "latitude": null,
+    "id": 21109
+  },
+  {
+    "name": "02",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.4510352,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "c7cc4699-43b4-4a56-8dfb-731fe09725f7",
+    "latitude": 34.2232034,
+    "id": 21119
+  },
+  {
+    "name": "03",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.1652186,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "bf6194ec-7ce4-4cde-9a74-84b3cb9d6a2b",
+    "latitude": 33.9520802,
+    "id": 21129
+  },
+  {
+    "name": "04",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.2255406,
+    "languages": [
+      ""
+    ],
+    "indirectId": "a6208f21-2dc8-4df9-b23a-f6af8061e17c",
+    "latitude": 33.9878503,
+    "id": 21139
+  },
+  {
+    "name": "05",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.2694257,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "eaa5663f-f36d-4b29-8ab2-698a61fb8173",
+    "latitude": 34.0648709,
+    "id": 21149
+  },
+  {
+    "name": "06",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.923825,
+    "languages": [
+      ""
+    ],
+    "indirectId": "290e71b9-e3f3-47fc-917a-a29b15947fc1",
+    "latitude": 33.730187,
+    "id": 21159
+  },
+  {
+    "name": "07",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.6887429,
+    "languages": [
+      ""
+    ],
+    "indirectId": "86811307-0676-4630-a670-f993dd522652",
+    "latitude": 34.0324527,
+    "id": 21169
+  },
+  {
+    "name": "08",
+    "showTTbeforeQueue": 0,
+    "longitude": -112.2282703,
+    "languages": [
+      ""
+    ],
+    "indirectId": "78d1b38e-85db-47e7-bfb0-ba0f24ebdbd7",
+    "latitude": 33.4779956,
+    "id": 21179
+  },
+  {
+    "name": "09",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.9185829,
+    "languages": [
+      ""
+    ],
+    "indirectId": "0c3e58db-2b0b-4202-b5e3-0b51d6a1f20e",
+    "latitude": 33.8549839,
+    "id": 21189
+  },
+  {
+    "name": "10",
+    "showTTbeforeQueue": 0,
+    "longitude": -110.972851,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "indirectId": "b173a830-dbf9-43ff-88bc-5925d45c8cd0",
+    "latitude": 32.1873236,
+    "id": 21199
+  },
+  {
+    "name": "80",
+    "showTTbeforeQueue": 0,
+    "longitude": -118.214433,
+    "languages": [
+      ""
+    ],
+    "indirectId": "d968f144-63b3-41ae-9eb1-9064698d4007",
+    "latitude": 33.9282934,
+    "id": 21209
+  },
+  {
+    "name": "Wild Rose",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "e715717f-1834-496e-b9fc-2b2abab6926e",
+    "latitude": null,
+    "id": 21219
+  },
+  {
+    "name": "CareClinicRedmond",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "e6cd74cb-e260-4a0d-835d-cd3452f9b8be",
+    "latitude": null,
+    "id": 21229
+  },
+  {
+    "name": "CareClinicSnoqualmie",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "f8e0d0c3-dca5-44eb-8bd1-f612fb311120",
+    "latitude": null,
+    "id": 21230
+  },
+  {
+    "name": "Aulia_Hospital",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "71231c17-e888-44ad-a12d-e28debb893fe",
+    "latitude": null,
+    "id": 21231
+  },
+  {
+    "name": "Fontana",
+    "showTTbeforeQueue": 0,
+    "longitude": -117.435611,
+    "languages": [],
+    "indirectId": "5fbc46b4-a5b0-460a-a28f-39ec10bdc86a",
+    "latitude": 34.072777,
+    "id": 21232
+  },
+  {
+    "name": "GlobalHarmony",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "2fe53e83-4c7d-44df-8afb-3d9e8dc70e29",
+    "latitude": null,
+    "id": 21233
+  },
+  {
+    "name": "Recepetion",
+    "showTTbeforeQueue": 0,
+    "longitude": null,
+    "languages": [],
+    "indirectId": "ce184ad5-9a84-42db-9ca4-2dadedaca18b",
+    "latitude": null,
+    "id": 21234
+  }
+]
